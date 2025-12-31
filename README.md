@@ -45,7 +45,6 @@
 
 ### Author: Areeb Arshad | Virginia Tech | Data Science, Statistics, and Mathematics 
 
-## Notes
-
+### Notes:
 - This model is for educational and research purposes only.
 - It does **not** constitute financial advice or a production-ready trading system.
