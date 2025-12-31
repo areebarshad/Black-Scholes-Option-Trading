@@ -43,7 +43,11 @@
 - tests.py #Unit tests for componenets
 - requirements.txt #Libraries used in the project 
 
+<br>
+
 ### Author: Areeb Arshad | Virginia Tech | Data Science, Statistics, and Mathematics 
+
+<br>
 
 ### Notes:
 - This model is for educational and research purposes only.
